@@ -1,0 +1,10 @@
+Usage: git clone [url]  
+
+This command is used to obtain a repository from an existing URL.
+
+Git Clone Command - Git Commands - Edureka
+
+git add
+Usage: git add [file]  
+
+This command adds a file to the staging area.
